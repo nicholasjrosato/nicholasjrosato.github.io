@@ -1,4 +1,4 @@
-# [Nick Rosato](index.html)
+# [Nick Rosato](index.md)
 New Orleans, LA | (504) 723-5885 | njrosatoii@gmail.com
 
 ---
