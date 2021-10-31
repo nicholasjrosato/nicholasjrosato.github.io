@@ -32,11 +32,14 @@ The credibility of Lennon-McCartney attributions is also called into question by
 Lennon perhaps has the right idea in his contemplation of the author Lennon-McCartney — that it is so fluid and dynamic that it is impossible to pin to it a single coherent theory or formula by which to objectively gauge it. Fans can latch on to the simpler corporate attribution of the vast majority of Beatles songs to the Lennon-McCartney monster, or they can buy into MacDonald’s and Spizer’s investigations of the extent of their individual contributions. A third option, of course, would be to follow Lennon’s example and give in to the mystery, obscuring it even further and focusing on the music that comes out of that mysterious and beautiful entity. 
 
 
+
 ## Works Cited
-MacDonald, Ian. Revolution in the Head: the Beatles’ Records and the Sixties. Pimlico, 2005.
-McCammon, Ross. “John Oates: How Hall & Oates Started.” Esquire, Esquire, 9 Jan. 2012, www.esquire.com/entertainment/interviews/a12310/john-oates-quotes-0112/.
-Nietzsche, Friedrich. The Birth of Tragedy: Out of the Spirit of Music. Translated by Shaun Whiteside, Penguin Books, 2003.
-Sheff, David. “Playboy Interview with John Lennon and Yoko Ono.” Playboy, vol. 28, no. 1, Jan. 1981.
-Spizer, Bruce. The Beatles on Apple Records. 498 Productions. L.L.C., 2003. 
-Stern, Howard. “Sir Paul McCartney Visits the Studio.” The Howard Stern Show, Howard 100, 8 Oct. 2013.
-The Beatles Fake Book. Hal Leonard, 1987.
++ MacDonald, Ian. Revolution in the Head: the Beatles’ Records and the Sixties. Pimlico, 2005.
++ McCammon, Ross. “John Oates: How Hall & Oates Started.” Esquire, Esquire, 9 Jan. 2012, www.esquire.com/entertainment/interviews/a12310/john-oates-quotes-0112/.
++ Nietzsche, Friedrich. The Birth of Tragedy: Out of the Spirit of Music. Translated by Shaun Whiteside, Penguin Books, 2003.
++ Sheff, David. “Playboy Interview with John Lennon and Yoko Ono.” Playboy, vol. 28, no. 1, Jan. 1981.
++ Spizer, Bruce. The Beatles on Apple Records. 498 Productions. L.L.C., 2003. 
++ Stern, Howard. “Sir Paul McCartney Visits the Studio.” The Howard Stern Show, Howard 100, 8 Oct. 2013.
++ The Beatles Fake Book. Hal Leonard, 1987.
+
+[Home] | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]
