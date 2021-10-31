@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Resume"
+title: Resume
 permalink: /resume/
+---
 
 # Nick Rosato
 New Orleans, LA | (504) 723-5885 | njrosatoii@gmail.com
