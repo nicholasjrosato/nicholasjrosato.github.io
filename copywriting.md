@@ -4,3 +4,5 @@ Here are some pieces of marketing copy that I've written in my time in the Archi
 ## [Proposal Materials]()
 
 ## [Email Marketing Materials]()
+
+[Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]
