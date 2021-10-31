@@ -13,4 +13,4 @@ I can help you with:
 + Editing & Proofreading
 + Print or Web Publishing
 
-[Technical Writing] | [Academic Writing] | [Marketing]
+[Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]
