@@ -4,3 +4,5 @@ Here are some of the more technical writing projects I've completed. Some are fr
 ## [Studying Quotative Suspensions in CLiC Web APP]()
 
 ## [Proposal Materials]()
+
+[Home] | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]
