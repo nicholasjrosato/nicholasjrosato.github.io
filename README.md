@@ -3,7 +3,7 @@ Technical Writer based in New Orleans, LA
 
 This site is meant to serve as a portfolio of writing samples to show others what I can bring to their projects. It contains samples of many different types of writing that I've engaged with over the years, including academic, technical, journalistic, and copywriting. I'm hoping to contribute my documentation skills to some open source projects, so please reach out to me at njrosatoii@gmail.com if you'd like to collaborate.
 
-[My resume](https://github.com/nicholasjrosato/nicholasjrosato.github.io/resume.md)
+[My resume](https://github.com/nicholasjrosato/nicholasjrosato.github.io/blob/d72743842e683d0b7c6990c5930f71c489d08f13/resume.md)
 
 I can help you with:
 + Technical Documentation (API's, process tutorials, requirements)
