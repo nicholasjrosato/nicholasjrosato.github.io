@@ -8,7 +8,6 @@ New Orleans, LA | (504) 723-5885 | njrosatoii@gmail.com
 
 **Bachelor of Arts:** University of Louisiana at Lafayette | May, 2017 | *English*
 
-
 ## Technical Skills
 Microsoft Office Suite (Word, PowerPoint, Excel, Outlook), Google Office Suite (Docs, Sheets, Slides), Adobe Acrobat & InDesign, HTML, Markdown, intermediate Python
 
