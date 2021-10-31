@@ -1,7 +1,8 @@
 ---
+
 layout: page
 title: Resume
-permalink: /resume/
+
 ---
 
 # Nick Rosato
