@@ -5,6 +5,7 @@ New Orleans, LA | (504) 723-5885 | njrosatoii@gmail.com
 
 ## Education
 **Master of Arts:** University of Louisiana at Lafayette | May, 2019 | *English Literary Studies*
+
 **Bachelor of Arts:** University of Louisiana at Lafayette | May, 2017 | *English*
 
 ## Technical Skills
