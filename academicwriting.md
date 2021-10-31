@@ -8,3 +8,5 @@ Here you'll find a few essays and articles that I've written throughout my acade
 ## [Catholics in the Global South: Flannery O'Connor and James Joyce]()
 
 ## [Post-Colonial Theory: A Glossary of Terms]()
+
+[Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]
