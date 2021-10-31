@@ -1,3 +1,6 @@
+layout: page
+title: "Resume"
+permalink: /resume/
 # Nick Rosato
 New Orleans, LA | (504) 723-5885 | njrosatoii@gmail.com
 
@@ -39,8 +42,3 @@ Microsoft Office Suite (Word, PowerPoint, Excel, Outlook), Google Office Suite (
 
 **Staff Writer:** *Italian-American Digest* | 12/1014 | New Orleans, LA
 + Wrote a critical music review for an edition of the Digest
-
-## References
-Dan Daigle (504-376-4443): CEO, MDA Consultants
-Dr. Jonathan Goodwin (jonathan.goodwin@louisiana.edu): Director of First Year Writing at UL
-Ray Palmer (ray@camcola.com): President, Crown Architectural Metal Company
