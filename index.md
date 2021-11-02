@@ -5,7 +5,7 @@ This site is meant to serve as a portfolio of writing samples to demonstrate wha
 
 [My resume](resume.md)
 
-I have technical writing experience in the Architecture, Engineering, and Construction (AEC) industry, documenting key project procedures and scopes of work for technical proposals. Before that, I was an active literary scholar, obtaining a Master's degree in English with a concentration in Literary Studies. I'm hoping to use this experience contribute to the documentation of open source projects, so please reach out to me at njrosatoii@gmail.com if you'd like to work together.
+I have technical writing experience in the Architecture, Engineering, and Construction (AEC) industry, documenting key project procedures and scopes of work for technical proposals. Before that, I completed a Master's degree in English with a concentration in Literary Studies, writing and teaching about literature and the craft of writing. I'm hoping to use this experience contribute to the documentation of open source projects, so please reach out to me at njrosatoii@gmail.com if you'd like to work together.
 
 I can help you with:
 + Technical Documentation (API's, process tutorials, requirements)
