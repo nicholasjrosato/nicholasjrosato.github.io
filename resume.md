@@ -40,3 +40,5 @@ Microsoft Office Suite (Word, PowerPoint, Excel, Outlook), Google Office Suite (
 
 **Staff Writer:** *Italian-American Digest* | 12/1014 | New Orleans, LA
 + Wrote a critical music review for an edition of the Digest
+
+[Home](index.md) | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]

@@ -5,4 +5,4 @@ Here are some of the more technical writing projects I've completed. Some are fr
 
 ## [Proposal Materials]()
 
-[Home] | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]
+[Home](index.md) | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]

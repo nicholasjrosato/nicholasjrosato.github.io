@@ -42,4 +42,4 @@ Lennon perhaps has the right idea in his contemplation of the author Lennon-McCa
 + Stern, Howard. “Sir Paul McCartney Visits the Studio.” The Howard Stern Show, Howard 100, 8 Oct. 2013.
 + The Beatles Fake Book. Hal Leonard, 1987.
 
-[Home] | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]
+[Home](index.md) | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]

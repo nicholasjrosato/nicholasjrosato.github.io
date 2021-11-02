@@ -5,4 +5,4 @@ Here are some pieces of marketing copy that I've written in my time in the Archi
 
 ## [Email Marketing Materials]()
 
-[Home] | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]
+[Home](index.md) | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]

@@ -35,3 +35,5 @@ It is likely that Joyce sees this approach to theology and spirituality as probl
 By writing about Catholicism in this thoughtful, psychological way, Joyce puts it in quite the opposite position than does O’Connor in relation to their respective Global South communities, and their opposite positionings of it are fairly indicative of their respective communities’ general religious tendencies. It is no secret that the American South is one of the more religiously fervent regions in the Western world, and Flannery O’Connor is a clear and iconic example of that fervor in the literature of the area, and Joyce and his popularity is equally reflective of the growing skepticism in Europe.
 
 **This paper was presented at the 2018 **Deep South in the Global South** conference at the University of Louisiana at Lafayette.*
+
+[Home](index.md) | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]
