@@ -9,4 +9,4 @@ Here you'll find a few essays and articles that I've written throughout my acade
 
 ## [Post-Colonial Theory: A Glossary of Terms]()
 
-[Home] | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]
+[Home](index.md) | [Technical Writing] | [Academic Writing](academicwriting.md) | [Marketing]
