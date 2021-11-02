@@ -3,7 +3,7 @@ Here you'll find a few essays and articles that I've written throughout my acade
 
 ## [Lennon-McCartney: Collaboration or Two-Headed Monster?](lennonmccartney.md)
 
-## [Digital Humanities Quarterly Issue Review]()
+## [*Digital Humanities Quarterly* Issue Review]()
 
 ## [Catholics in the Global South: Flannery O'Connor and James Joyce](catholicsinthesouth.md)
 
