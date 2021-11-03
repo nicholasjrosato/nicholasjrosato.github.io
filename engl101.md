@@ -73,17 +73,6 @@ The Center helps writers become better writers, and to this end, our goals are:
 
 The Center is staffed by tutors who assist students at any stage of the writing process.
 
-## Office of Disability Services
-Students needing academic accommodations for a disability must first be registered with the Office of Disability Services (ODS) to verify the disability and to establish eligibility for accommodations. Students may call 337-482-5252 or visit the ODS office in the Conference Center, room 126. Once registered, students should then schedule an appointment with the professor to make appropriate arrangements.
-
-## Campus Safety Information
-University Police are the first responders for all emergencies on campus.  Dial 911 or 482-6447 to report any emergency.
-The Emergency Information Floor Plan is posted in the hallways for every building. This document includes evacuation routes and other important information. Please familiarize yourself with this document.
-
-In the event that the building fire alarm is sounded, please exit the building immediately and notify University Police. Do not use the building elevator - look for the illuminated Exit Signs to direct you to safety.
-
-During times of emergency, information may be available on the University's Emergency Hotline - 482-2222.
-If you have a special medical condition that might render you incapacitated during class, please make this known to your instructor as soon as possible, including any emergency contact information for your next of kin or similar.
 
 
 
