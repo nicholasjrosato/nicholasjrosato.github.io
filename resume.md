@@ -9,7 +9,7 @@ New Orleans, LA | (504) 723-5885 | njrosatoii@gmail.com
 **Bachelor of Arts:** University of Louisiana at Lafayette; May, 2017; *English*
 
 ## Technical Skills
-Microsoft Office Suite (Word, PowerPoint, Excel, Outlook), Google Office Suite (Docs, Sheets, Slides), Adobe Acrobat & InDesign, gitHub Pages, Markdown, HTML, LaTeX, intermediate Python
+Microsoft Office Suite (Word, PowerPoint, Excel, Outlook), Google Office Suite (Docs, Sheets, Slides), Adobe Acrobat & InDesign, GitHub Pages, Markdown, HTML, LaTeX, intermediate Python
 
 ## Work Experience
 **Proposal Writer:** *Hernandez Consulting & Construction* | 7/2020-Present | New Orleans, LA
