@@ -54,3 +54,5 @@ Mahlberg, M., & Wiegand, V. (2018). Corpus stylistics, norms and comparisons: St
 Expectations*. In R. Page, B. Busse, & N. Nørgaard (Eds.), *Rethinking Language, Text and Context: Interdisciplinary
 Research in Stylistics in Honour of Michael Toolan* (pp. 123–143). London: Routledge.
 https://www.birmingham.ac.uk/Documents/college-artslaw/elal/clic/Mahlberg-Wiegand-2018-accepted.pdf
+
+[Home](index.md) | [Technical Writing](technicalwriting.md) | [Academic Writing](academicwriting.md) | [Marketing]
