@@ -4,9 +4,8 @@ I propose to conduct a corpus stylistic study of quotative suspensions in a care
 # Quotative Suspensions
 I model the goals and methodology of this project on [a 2018 study](https://www.birmingham.ac.uk/Documents/college-artslaw/elal/clic/Mahlberg-Wiegand-2018-accepted.pdf) conducted by Michaela Mahlberg and Viola Wiegand, two of the primary spearheads of the CLiC project at Birmingham, in which they examine “suspensions” in Charles Dickens’ *Great Expectations*. They define suspensions as “narratorial disruptions of character speech … which tend to contain reporting clauses and/or additional character information such as body language.” They give the following examples of suspensions from *Great Expectations* (GE):
 
->(1) “Yes, Pip,” said Joe; “and what’s worse, she’s got Tickler with her.” (Chapter 2)
-
-(2) “You know, Pip,” said Joe, solemnly, with his last bite in his cheek and speaking in a confidential voice, as if we two were quite alone, “you and me is always friends, and I’d be the last to tell upon you, any time. But such a--” he moved his chair and looked about the floor between us, and then again at me - “such a most oncommon Bolt as that!” (Chapter 2)
+1. >“Yes, Pip,” said Joe; “and what’s worse, she’s got Tickler with her.” (Chapter 2)
+2. > “You know, Pip,” said Joe, solemnly, with his last bite in his cheek and speaking in a confidential voice, as if we two were quite alone, “you and me is always friends, and I’d be the last to tell upon you, any time. But such a--” he moved his chair and looked about the floor between us, and then again at me - “such a most oncommon Bolt as that!” (Chapter 2)
 
 One of Mahlberg’s and Wiegand’s primary arguments is that even though suspensions are technically “narration,” which is to say they are not character speech, they display tendencies that are more similar to character speech than other instances of narration do. In other words, they carry a kind of residue of the speech patterns of whatever character they pertain to even though they are not actually being spoken by that character. 
 
